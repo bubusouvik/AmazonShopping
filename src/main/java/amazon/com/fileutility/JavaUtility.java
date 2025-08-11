@@ -4,7 +4,8 @@ import java.util.Date;
 import java.util.Random;
 
 public class JavaUtility {
-
+	
+	//get generate random number
 	public int generateRandomNumber() {
 
 		Random random = new Random();
