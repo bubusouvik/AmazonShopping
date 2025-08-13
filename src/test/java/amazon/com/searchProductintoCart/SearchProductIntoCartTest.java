@@ -20,7 +20,7 @@ import amazon.com.pom.SearchProductPage;
 import amazon.com.webdriverutility.UtilityClassObject;
 
 @Listeners(amazon.com.listenerutility.ListenerUtility.class)
-public class SearchProductIntoCart extends AmazonBaseclass {
+public class SearchProductIntoCartTest extends AmazonBaseclass {
 
 	JavaUtility javautility = new JavaUtility();
 
