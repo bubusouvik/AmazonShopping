@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-12T00:55:18 IST" name="Default suite" finished-at="2025-08-12T00:56:03 IST" duration-ms="45602">
+  <suite started-at="2025-08-14T01:16:16 IST" name="Default suite" finished-at="2025-08-14T01:17:20 IST" duration-ms="63479">
     <groups>
     </groups>
-    <test started-at="2025-08-12T00:55:18 IST" name="Default test" finished-at="2025-08-12T00:56:03 IST" duration-ms="45602">
-      <class name="amazon.com.searchProductintoCart.SearchProductIntoCart">
-        <test-method is-config="true" signature="beforeSuit()[pri:0, instance:amazon.com.searchProductintoCart.SearchProductIntoCart@b3ca52e]" started-at="2025-08-12T00:55:18 IST" name="beforeSuit" finished-at="2025-08-12T00:55:18 IST" duration-ms="14" status="PASS">
+    <test started-at="2025-08-14T01:16:16 IST" name="Default test" finished-at="2025-08-14T01:17:20 IST" duration-ms="63479">
+      <class name="amazon.com.searchProductintoCart.SearchProductIntoCartTest">
+        <test-method is-config="true" signature="beforeSuit()[pri:0, instance:amazon.com.searchProductintoCart.SearchProductIntoCartTest@b3ca52e]" started-at="2025-08-14T01:16:16 IST" name="beforeSuit" finished-at="2025-08-14T01:16:16 IST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuit -->
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:amazon.com.searchProductintoCart.SearchProductIntoCart@b3ca52e]" started-at="2025-08-12T00:55:18 IST" name="launchBrowser" finished-at="2025-08-12T00:55:24 IST" duration-ms="6001" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:amazon.com.searchProductintoCart.SearchProductIntoCartTest@b3ca52e]" started-at="2025-08-14T01:16:16 IST" name="launchBrowser" finished-at="2025-08-14T01:16:31 IST" duration-ms="15041" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="searchproductwithcart()[pri:0, instance:amazon.com.searchProductintoCart.SearchProductIntoCart@b3ca52e]" started-at="2025-08-12T00:55:24 IST" name="searchproductwithcart" finished-at="2025-08-12T00:55:58 IST" duration-ms="33858" status="PASS">
+        <test-method signature="searchproductwithcart()[pri:0, instance:amazon.com.searchProductintoCart.SearchProductIntoCartTest@b3ca52e]" started-at="2025-08-14T01:16:31 IST" name="searchproductwithcart" finished-at="2025-08-14T01:17:14 IST" duration-ms="43153" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchproductwithcart -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:amazon.com.searchProductintoCart.SearchProductIntoCart@b3ca52e]" started-at="2025-08-12T00:55:58 IST" name="closeBrowser" finished-at="2025-08-12T00:56:03 IST" duration-ms="5688" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:amazon.com.searchProductintoCart.SearchProductIntoCartTest@b3ca52e]" started-at="2025-08-14T01:17:14 IST" name="closeBrowser" finished-at="2025-08-14T01:17:20 IST" duration-ms="5261" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-      </class> <!-- amazon.com.searchProductintoCart.SearchProductIntoCart -->
+      </class> <!-- amazon.com.searchProductintoCart.SearchProductIntoCartTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
